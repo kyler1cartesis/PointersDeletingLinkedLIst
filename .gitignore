@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/x64
+/.vs/PointersReadingLL
+/.vscode
+/Pointers.2162eebd/x64
